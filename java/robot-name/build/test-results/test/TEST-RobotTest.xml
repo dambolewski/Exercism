@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RobotTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-04-16T15:03:14" hostname="MacBook-Pro.local" time="0.044">
+  <properties/>
+  <testcase name="robotNamesAreUnique" classname="RobotTest" time="0.036"/>
+  <testcase name="sameRobotsHaveSameNames" classname="RobotTest" time="0.008"/>
+  <testcase name="differentRobotsHaveDifferentNames" classname="RobotTest" time="0.0"/>
+  <testcase name="hasName" classname="RobotTest" time="0.0"/>
+  <testcase name="resetName" classname="RobotTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

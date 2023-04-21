@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DiamondPrinterTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-04-19T18:41:46" hostname="MacBook-Pro.local" time="0.03">
+  <properties/>
+  <testcase name="testFourByFourDiamond" classname="DiamondPrinterTest" time="0.029"/>
+  <testcase name="testFullDiamond" classname="DiamondPrinterTest" time="0.001"/>
+  <testcase name="testThreeByThreeDiamond" classname="DiamondPrinterTest" time="0.0"/>
+  <testcase name="testFourByFiveDiamond" classname="DiamondPrinterTest" time="0.0"/>
+  <testcase name="testOneByOneDiamond" classname="DiamondPrinterTest" time="0.0"/>
+  <testcase name="testTwoByTwoDiamond" classname="DiamondPrinterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
