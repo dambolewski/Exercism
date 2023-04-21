@@ -1,8 +1,16 @@
 # Exercism
 
-## Exercises
+## Journey
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Here you will find my entire journey with Exercism. <br>
+Below are all the exercises I have completed. <br>
+Some of these exercises from the Easy level are downright trivial, so perfect for knowledge-hungry new programmers, but it doesn't hurt to take a few moments to confirm knowledge (i.e. mark the exercise in green to make it look pretty on the dashboard :smirk: ) and hopefully help new Exercism users on their own journey.
+
+1. The exercises are tabulated according to the levels set by the creators and contributors of Exercism . 
+2. The order of the exercises follows the order on the dashboard.
+3. Only completed exercises are added. More will be added when I manage to complete any of the remaining exercises.
+
+
 ### Easy
 | Exercise | Solution |
 | --- | --- |
