@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="687eca18-a548-4ccc-b053-ec3fed6a5056" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/Exercism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blackjack/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blackjack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acronym/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acronym/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../acronym/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acronym/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acronym/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../acronym/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acronym/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../acronym/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acronym/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acronym/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acronym/src/main/java/org/example/Acronym.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acronym/target/classes/org/example/Acronym.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../armstrong-numbers/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../armstrong-numbers/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../armstrong-numbers/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/src/main/java/org/example/ArmstrongNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armstrong-numbers/target/classes/org/example/ArmstrongNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-account/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bank-account/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../binary-search/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../binary-search/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bird-watcher/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bird-watcher/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bird-watcher/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bird-watcher/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bird-watcher/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bird-watcher/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bird-watcher/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bird-watcher/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bird-watcher/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bird-watcher/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bird-watcher/src/main/java/org/example/BirdWatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bird-watcher/src/test/java/org/example/BirdWatcherTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bird-watcher/target/classes/org/example/BirdWatcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/src/main/java/org/example/BlackJack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/src/test/java/org/example/BlackJackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/target/classes/org/example/BlackJack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/target/test-classes/org/example/BlackJackTest$smallHand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/target/test-classes/org/example/BlackJackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CarAssemble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/CarAssemble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../difference-of-squares/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../difference-of-squares/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../difference-of-squares/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/src/test/java/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../difference-of-squares/target/test-classes/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../elons-toy-car/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../elons-toy-car/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../elons-toy-car/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/src/main/java/org/example/ElonsToyCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/target/classes/org/example/ElonsToyCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../football-match-reports/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../football-match-reports/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../football-match-reports/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football-match-reports/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gigasecond/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gigasecond/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gigasecond/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/src/main/java/org/example/Gigasecond.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/src/test/java/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/target/classes/classpath.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/target/classes/org/example/Gigasecond.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/target/test-classes/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gigasecond/target/test-classes/classpath.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../grains/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../grains/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../grains/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/src/main/java/org/example/Grains.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grains/target/classes/org/example/Grains.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hamming/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hamming/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hamming/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/src/main/java/org/example/Hamming.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamming/target/classes/org/example/Hamming.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../karls-languages/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../karls-languages/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../karls-languages/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/src/main/java/org/example/LanguageList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leap/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leap/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leap/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/src/main/java/org/example/Leap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/src/test/java/org/example/LeapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/target/classes/org/example/Leap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/target/test-classes/org/example/LeapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../log-levels/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../log-levels/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../log-levels/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/src/main/java/org/example/LogLevels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/src/test/java/org/example/LogLevelsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/target/classes/org/example/LogLevels.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log-levels/target/test-classes/org/example/LogLevelsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-blog/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-blog/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-blog/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-blog/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-blog/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-blog/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-blog/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-blog/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-blog/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-blog/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-blog/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../need-for-speed/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../need-for-speed/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../need-for-speed/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/src/main/java/org/example/NeedForSpeed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/target/classes/org/example/NeedForSpeed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/target/classes/org/example/RaceTrack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pangram/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pangram/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pangram/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pangram/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../protein-translation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../protein-translation/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../protein-translation/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../protein-translation/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../protein-translation/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../protein-translation/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../protein-translation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../protein-translation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../protein-translation/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../protein-translation/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../protein-translation/src/main/java/org/example/ProteinTranslator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../protein-translation/target/classes/org/example/ProteinTranslator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../remote-control-competition/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../remote-control-competition/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../remote-control-competition/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/src/main/java/org/example/ExperimentalRemoteControlCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/src/main/java/org/example/ProductionRemoteControlCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/src/main/java/org/example/RemoteControlCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/src/main/java/org/example/TestTrack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/target/classes/org/example/ExperimentalRemoteControlCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/target/classes/org/example/ProductionRemoteControlCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/target/classes/org/example/RemoteControlCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../remote-control-competition/target/classes/org/example/TestTrack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color-duo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color-duo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color-duo/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color-duo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color-duo/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color-duo/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color-duo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color-duo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color-duo/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color-duo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color-duo/src/main/java/org/example/ResistorColorDuo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color-duo/src/test/java/ResistorColorDuoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color-duo/src/test/java/ResistorColorDuoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color-duo/target/classes/org/example/ResistorColorDuo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color-duo/target/test-classes/ResistorColorDuoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/src/main/java/org/example/ResistorColor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/src/test/java/ResistorColorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../resistor-color/src/test/java/ResistorColorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/target/classes/org/example/ResistorColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resistor-color/target/test-classes/ResistorColorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/src/test/java/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse-string/target/test-classes/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rna-transcription/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rna-transcription/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rna-transcription/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rna-transcription/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../salary-calculator/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../salary-calculator/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../salary-calculator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/src/test/java/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary-calculator/target/test-classes/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../space-age/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../space-age/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../space-age/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/src/main/java/org/example/SpaceAge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../space-age/target/classes/org/example/SpaceAge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../squeaky-clean/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../squeaky-clean/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../squeaky-clean/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/src/main/java/org/example/SqueakyClean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/target/classes/org/example/SqueakyClean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/src/test/java/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../two-fer/target/test-classes/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wizards-and-warriors/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wizards-and-warriors/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wizards-and-warriors/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wizards-and-warriors/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wizards-and-warriors/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wizards-and-warriors/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wizards-and-warriors/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wizards-and-warriors/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wizards-and-warriors/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="cars-assemble" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OkewZiPplEzB7LbPlbAwVe5YTx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="687eca18-a548-4ccc-b053-ec3fed6a5056" name="Changes" comment="" />
+      <created>1682109246529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682109246529</updated>
+    </task>
+    <servers />
+  </component>
+</project>

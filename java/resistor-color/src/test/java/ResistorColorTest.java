@@ -1,31 +1,36 @@
-import org.example.ResistorColor;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.Test;
-
-import java.util.Arrays;
-
-import static org.junit.jupiter.api.Assertions.*;
+import org.junit.Before;
+import org.junit.Test;
+import org.junit.Ignore;
+import static org.assertj.core.api.Assertions.assertThat;
 
 public class ResistorColorTest {
 
-    private static ResistorColor resistorColor;
-    @BeforeAll
-    public static void setup() {
+    private ResistorColor resistorColor;
+
+    @Before
+    public void setup() {
         resistorColor = new ResistorColor();
     }
 
     @Test
-    public void testBlackColorCode(){
-        assertEquals(0, resistorColor.colorCode("black"));
+    public void testBlackColorCode() {
+        assertThat(resistorColor.colorCode("black")).isEqualTo(0);
     }
 
     @Test
-    public void testWhiteColorCode(){
-        assertEquals(9, resistorColor.colorCode("white"));
+    public void testWhiteColorCode() {
+        assertThat(resistorColor.colorCode("white")).isEqualTo(9);
+    }
+
+    @Test
+    public void testOrangeColorCode() {
+        assertThat(resistorColor.colorCode("orange")).isEqualTo(3);
     }
 
     @Test
     public void testColors() {
-        assertEquals(Arrays.toString(resistorColor.colors()),Arrays.toString(new String[]{"black", "brown", "red", "orange", "yellow", "green", "blue", "violet", "grey", "white"}));
-        }
+        assertThat(resistorColor.colors()).containsExactly(
+                "black", "brown", "red", "orange", "yellow", "green", "blue", "violet", "grey", "white"
+        );
+    }
 }

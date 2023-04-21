@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53baf11b-eb1c-4fb1-8fe5-ddf621d1de10" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/java/lasagna/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/lasagna/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/annalyns-infiltration/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/annalyns-infiltration/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/annalyns-infiltration/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/annalyns-infiltration/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/annalyns-infiltration/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/annalyns-infiltration/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/annalyns-infiltration/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/annalyns-infiltration/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/lasagna/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/lasagna/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java/lasagna/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/lasagna/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/lasagna/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java/lasagna/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/lasagna/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java/lasagna/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/lasagna/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/lasagna/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/lasagna/target/classes/org/example/Main.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OkbOhOTqQamxRpmQ5P0xkpodHA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53baf11b-eb1c-4fb1-8fe5-ddf621d1de10" name="Changes" comment="" />
+      <created>1682107497229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682107497229</updated>
+    </task>
+    <servers />
+  </component>
+</project>

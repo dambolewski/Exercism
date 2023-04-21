@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="446c8c85-ae1a-471c-b4a9-6f6df7716ebc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/Exercism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blackjack/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blackjack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lasagna/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../annalyns-infiltration/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annalyns-infiltration/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bird-watcher/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bird-watcher/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bird-watcher/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bird-watcher/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bird-watcher/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bird-watcher/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bird-watcher/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bird-watcher/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bird-watcher/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bird-watcher/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bird-watcher/src/main/java/org/example/BirdWatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bird-watcher/src/test/java/org/example/BirdWatcherTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bird-watcher/target/classes/org/example/BirdWatcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blackjack/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/src/main/java/org/example/BlackJack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/src/test/java/org/example/BlackJackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/target/classes/org/example/BlackJack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/target/test-classes/org/example/BlackJackTest$smallHand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blackjack/target/test-classes/org/example/BlackJackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../elons-toy-car/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../elons-toy-car/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../elons-toy-car/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/src/main/java/org/example/ElonsToyCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elons-toy-car/target/classes/org/example/ElonsToyCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../karls-languages/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../karls-languages/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../karls-languages/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../karls-languages/src/main/java/org/example/LanguageList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lasagna/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lasagna/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../need-for-speed/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../need-for-speed/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../need-for-speed/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/src/main/java/org/example/NeedForSpeed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/target/classes/org/example/NeedForSpeed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../need-for-speed/target/classes/org/example/RaceTrack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ExperimentalRemoteControlCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ProductionRemoteControlCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RemoteControlCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TestTrack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/ExperimentalRemoteControlCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/ProductionRemoteControlCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/RemoteControlCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TestTrack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../squeaky-clean/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../squeaky-clean/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../squeaky-clean/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/src/main/java/org/example/SqueakyClean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squeaky-clean/target/classes/org/example/SqueakyClean.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OkeE5iIuEZeo6kw5ldzIdJetXp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Gradle.RemoteControlCarTest.rankTwoCars">
+    <configuration name="RemoteControlCarTest.ensureCarsAreComparable" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;RemoteControlCarTest.ensureCarsAreComparable&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RemoteControlCarTest.experimentalCarTravels20UnitsPerDrive" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;RemoteControlCarTest.experimentalCarTravels20UnitsPerDrive&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RemoteControlCarTest.productionCarTravels10UnitsPerDrive" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;RemoteControlCarTest.productionCarTravels10UnitsPerDrive&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RemoteControlCarTest.race" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;RemoteControlCarTest.race&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RemoteControlCarTest.rankTwoCars" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;RemoteControlCarTest.rankTwoCars&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RemoteControlCarTest.rankTwoCars" />
+        <item itemvalue="Gradle.RemoteControlCarTest.ensureCarsAreComparable" />
+        <item itemvalue="Gradle.RemoteControlCarTest.race" />
+        <item itemvalue="Gradle.RemoteControlCarTest.experimentalCarTravels20UnitsPerDrive" />
+        <item itemvalue="Gradle.RemoteControlCarTest.productionCarTravels10UnitsPerDrive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="446c8c85-ae1a-471c-b4a9-6f6df7716ebc" name="Changes" comment="" />
+      <created>1682108891898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682108891898</updated>
+    </task>
+    <servers />
+  </component>
+</project>
