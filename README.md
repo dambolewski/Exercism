@@ -6,7 +6,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ### Easy
 | Exercise | Solution |
 | --- | --- |
-| [Hello World](https://exercism.org/tracks/java/exercises/hello-world) | |
+| [Hello World](https://exercism.org/tracks/java/exercises/hello-world) | [/java/hello-world](https://github.com/dambolewski/Exercism/tree/main/java/hello-world) |
 | [Cook your lasagna](https://exercism.org/tracks/java/exercises/lasagna) | [/java/lasagna](https://github.com/dambolewski/Exercism/tree/main/java/lasagna) |
 | [Annalyn's Infiltration](https://exercism.org/tracks/java/exercises/annalyns-infiltration) | [/java/annalyns-infiltration](https://github.com/dambolewski/Exercism/tree/main/java/annalyns-infiltration) |
 | [Bird Watcher](https://exercism.org/tracks/java/exercises/bird-watcher) | [/java/bird-watcher](https://github.com/dambolewski/Exercism/tree/main/java/bird-watcher) |
@@ -27,6 +27,26 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 | [Scrabble Score](https://exercism.org/tracks/java/exercises/scrabble-score) | [/java/scrabble-score](https://github.com/dambolewski/Exercism/tree/main/java/scrabble-score) |
 | [Difference of Squares](https://exercism.org/tracks/java/exercises/difference-of-squares) | [/java/difference-of-squares](https://github.com/dambolewski/Exercism/tree/main/java/difference-of-squares) |
 | [Secret Handshake](https://exercism.org/tracks/java/exercises/secret-handshake) | [/java/secret-handshake](https://github.com/dambolewski/Exercism/tree/main/java/secret-handshake) |
+| [Raindrops](https://exercism.org/tracks/java/exercises/raindrops) | [/java/raindrops](https://github.com/dambolewski/Exercism/tree/main/java/raindrops) |
+| [Reverse String](https://exercism.org/tracks/java/exercises/reverse-string) | [/java/reverse-string](https://github.com/dambolewski/Exercism/tree/main/java/reverse-string) |
+| [Darts](https://exercism.org/tracks/java/exercises/darts) | [/java/darts](https://github.com/dambolewski/Exercism/tree/main/java/darts) |
+| [D&D Character](https://exercism.org/tracks/java/exercises/dnd-character) | [/java/dnd-character](https://github.com/dambolewski/Exercism/tree/main/java/dnd-character) |
+| [Grains](https://exercism.org/tracks/java/exercises/grains) | [/java/grains](https://github.com/dambolewski/Exercism/tree/main/java/grains) |
+| [Resistor Color](https://exercism.org/tracks/java/exercises/resistor-color) | [/java/resistor-color](https://github.com/dambolewski/Exercism/tree/main/java/resistor-color)  |
+| [Resistor Color Duo](https://exercism.org/tracks/java/exercises/resistor-color-duo) | [/java/resistor-color-duo](https://github.com/dambolewski/Exercism/tree/main/java/resistor-color-duo) |
+| [Micro Blog](https://exercism.org/tracks/java/exercises/micro-blog) | [/java/micro-blog](https://github.com/dambolewski/Exercism/tree/main/java/micro-blog) |
+| [Protein Translation](https://exercism.org/tracks/java/exercises/protein-translation) | [/java/protein-translation](https://github.com/dambolewski/Exercism/tree/main/java/protein-translation) |
+| [Leap](https://exercism.org/tracks/java/exercises/leap) | [/java/leap](https://github.com/dambolewski/Exercism/tree/main/java/leap) |
+| [Armstrong Numbers](https://exercism.org/tracks/java/exercises/armstrong-numbers) | [/java/armstrong-numbers](https://github.com/dambolewski/Exercism/tree/main/java/armstrong-numbers)|
+| [RNA Transcription](https://exercism.org/tracks/java/exercises/rna-transcription) | [/java/rna-transcription](https://github.com/dambolewski/Exercism/tree/main/java/rna-transcription) |
+| [Acronym](https://exercism.org/tracks/java/exercises/acronym) | [/java/acronym](https://github.com/dambolewski/Exercism/tree/main/java/acronym) |
+| [Pangram](https://exercism.org/tracks/java/exercises/pangram) | [/java/pangram](https://github.com/dambolewski/Exercism/tree/main/java/pangram) |
+| [Space Age](https://exercism.org/tracks/java/exercises/space-age) | [/java/space-age](https://github.com/dambolewski/Exercism/tree/main/java/space-age) |
+<br>
+
+### Medium
+| Exercise | Solution |
+| --- | --- |
 | [Matrix](https://exercism.org/tracks/java/exercises/matrix) | [/java/matrix](https://github.com/dambolewski/Exercism/tree/main/java/matrix) |
 | [Triangle](https://exercism.org/tracks/java/exercises/triangle) | [/java/triangle](https://github.com/dambolewski/Exercism/tree/main/java/triangle) |
 | [Rotational Cipher](https://exercism.org/tracks/java/exercises/rotational-cipher) | [/java/rotational-cipher](https://github.com/dambolewski/Exercism/tree/main/java/rotational-cipher) |
@@ -37,20 +57,5 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 | [Binary Search](https://exercism.org/tracks/java/exercises/binary-search) | [/java/binary-search](https://github.com/dambolewski/Exercism/tree/main/java/binary-search) |
 | [Bank Account](https://exercism.org/tracks/java/exercises/bank-account) | [/java/bank-account](https://github.com/dambolewski/Exercism/tree/main/java/bank-account) |
 | [Linked List](https://exercism.org/tracks/java/exercises/linked-list) | [/java/linked-list](https://github.com/dambolewski/Exercism/tree/main/java/linked-list) |
-| [Raindrops](https://exercism.org/tracks/java/exercises/raindrops) | [/java/raindrops](https://github.com/dambolewski/Exercism/tree/main/java/raindrops) |
 | [Isogram](https://exercism.org/tracks/java/exercises/isogram) | [/java/isogram](https://github.com/dambolewski/Exercism/tree/main/java/isogram) |
-| [Reverse String](https://exercism.org/tracks/java/exercises/reverse-string) | [/java/reverse-string](https://github.com/dambolewski/Exercism/tree/main/java/reverse-string) |
-| [Darts](https://exercism.org/tracks/java/exercises/darts) | [/java/darts](https://github.com/dambolewski/Exercism/tree/main/java/darts) |
-| [D&D Character](https://exercism.org/tracks/java/exercises/dnd-character) | [/java/dnd-character](https://github.com/dambolewski/Exercism/tree/main/java/dnd-character) |
-| [Grains](https://exercism.org/tracks/java/exercises/grains) | [/java/grains](https://github.com/dambolewski/Exercism/tree/main/java/grains) |
-| [Resistor Color](https://exercism.org/tracks/java/exercises/resistor-color) | [/java/resistor-color](https://github.com/dambolewski/Exercism/tree/main/java/resistor-color)  |
-| [Resistor Color Duo](https://exercism.org/tracks/java/exercises/resistor-color-duo) | [/java/resistor-color-duo](https://github.com/dambolewski/Exercism/tree/main/java/resistor-color-duo) |
-| [Micro Blog](https://exercism.org/tracks/java/exercises/micro-blog) | [/java/micro-blog](https://github.com/dambolewski/Exercism/tree/main/java/micro-blog) |
-| [Protein Translation](https://exercism.org/tracks/java/exercises/protein-translation) | [/java/protein-translation](https://github.com/dambolewski/Exercism/tree/main/java/protein-translation) |
 | [Diamond](https://exercism.org/tracks/java/exercises/diamond) | [/java/diamond](https://github.com/dambolewski/Exercism/tree/main/java/diamond) |
-| [Leap](https://exercism.org/tracks/java/exercises/leap) | [/java/leap](https://github.com/dambolewski/Exercism/tree/main/java/leap) |
-| [Armstrong Numbers](https://exercism.org/tracks/java/exercises/armstrong-numbers) | [/java/armstrong-numbers](https://github.com/dambolewski/Exercism/tree/main/java/armstrong-numbers)|
-| [RNA Transcription](https://exercism.org/tracks/java/exercises/rna-transcription) | [/java/rna-transcription](https://github.com/dambolewski/Exercism/tree/main/java/rna-transcription) |
-| [Acronym](https://exercism.org/tracks/java/exercises/acronym) | [/java/acronym](https://github.com/dambolewski/Exercism/tree/main/java/acronym) |
-| [Pangram](https://exercism.org/tracks/java/exercises/pangram) | [/java/pangram](https://github.com/dambolewski/Exercism/tree/main/java/pangram) |
-| [Space Age](https://exercism.org/tracks/java/exercises/space-age) | [/java/space-age](https://github.com/dambolewski/Exercism/tree/main/java/space-age) |
