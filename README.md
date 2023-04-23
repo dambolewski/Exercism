@@ -66,5 +66,5 @@ Some of these exercises from the Easy level are downright trivial, so perfect fo
 | [Bank Account](https://exercism.org/tracks/java/exercises/bank-account) | [/java/bank-account](https://github.com/dambolewski/Exercism/tree/main/java/bank-account) |
 | [Linked List](https://exercism.org/tracks/java/exercises/linked-list) | [/java/linked-list](https://github.com/dambolewski/Exercism/tree/main/java/linked-list) |
 | [Isogram](https://exercism.org/tracks/java/exercises/isogram) | [/java/isogram](https://github.com/dambolewski/Exercism/tree/main/java/isogram) |
-| [Pig Latin](https://exercism.org/tracks/java/exercises/pig-latin) | |
+| [Pig Latin](https://exercism.org/tracks/java/exercises/pig-latin) | [/java/pig-latin](https://github.com/dambolewski/Exercism/tree/main/java/pig-latin) |
 | [Diamond](https://exercism.org/tracks/java/exercises/diamond) | [/java/diamond](https://github.com/dambolewski/Exercism/tree/main/java/diamond) |
