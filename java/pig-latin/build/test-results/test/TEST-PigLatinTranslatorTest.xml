@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PigLatinTranslatorTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2023-04-23T18:02:38" hostname="MacBook-Pro.local" time="0.007">
+<testsuite name="PigLatinTranslatorTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2023-04-24T02:09:33" hostname="MacBook-Pro.local" time="0.009">
   <properties/>
   <testcase name="testYAsSecondLetterInTwoLetterWord" classname="PigLatinTranslatorTest" time="0.004"/>
-  <testcase name="testAWholePhrase" classname="PigLatinTranslatorTest" time="0.0"/>
+  <testcase name="testAWholePhrase" classname="PigLatinTranslatorTest" time="0.002"/>
   <testcase name="testWordBeginningWithQWithoutAFollowingU" classname="PigLatinTranslatorTest" time="0.0"/>
   <testcase name="testWordBeginningWithA" classname="PigLatinTranslatorTest" time="0.0"/>
   <testcase name="testWordBeginningWithE" classname="PigLatinTranslatorTest" time="0.0"/>
   <testcase name="testWordBeginningWithI" classname="PigLatinTranslatorTest" time="0.0"/>
   <testcase name="testWordBeginningWithK" classname="PigLatinTranslatorTest" time="0.0"/>
-  <testcase name="testWordBeginningWithO" classname="PigLatinTranslatorTest" time="0.001"/>
+  <testcase name="testWordBeginningWithO" classname="PigLatinTranslatorTest" time="0.0"/>
   <testcase name="testWordBeginningWithP" classname="PigLatinTranslatorTest" time="0.0"/>
   <testcase name="testWordBeginningWithU" classname="PigLatinTranslatorTest" time="0.0"/>
   <testcase name="testWordBeginningWithX" classname="PigLatinTranslatorTest" time="0.0"/>

@@ -1,7 +1,7 @@
 class PigLatinTranslator {
 
-    String vowel = "aeiou";
-    String[] twoLetterClusters = {"bl", "br", "ch", "cl", "cr", "dr", "fl", "fr", "gl", "gr", "pl", "pr", "sc", "sh", "sk", "sl", "sm", "sn", "sp", "st", "sw", "th", "tr", "tw", "wh", "wr"};
+    final String VOWELS = "aeiou";
+    final String[] TWO_LETTER_CLUSTERS = {"bl", "br", "ch", "cl", "cr", "dr", "fl", "fr", "gl", "gr", "pl", "pr", "sc", "sh", "sk", "sl", "sm", "sn", "sp", "st", "sw", "th", "tr", "tw", "wh", "wr"};
 
 
     public PigLatinTranslator() {
@@ -13,24 +13,18 @@ class PigLatinTranslator {
 
         for (String word : words) {
             String pigLatin;
-            int vowelIndex = vowel.indexOf(word.toLowerCase().charAt(0));
+            char vowelIndex = word.toLowerCase().charAt(0);
             int yIndex = word.indexOf("y");
 
-            if (vowelIndex != -1 ||
+            if (isVowel(vowelIndex) ||
                     word.toLowerCase().startsWith("xr") ||
                     word.toLowerCase().startsWith("yt")) {
                 pigLatin = word + "ay";
             } else {
-                boolean hasConsonantCluster = false;
-                for (String cluster : twoLetterClusters) {
-                    if (word.length() >= 2 && word.substring(0, 2).equals(cluster)) {
-                        hasConsonantCluster = true;
-                        break;
-                    }
-                }
+                boolean hasConsonantCluster = hasTwoLetterConsonantCluster(word);
                 if (hasConsonantCluster) {
                     String consonantCluster;
-                    if (word.length() >= 3 && vowel.indexOf(word.toLowerCase().charAt(2)) == -1) {
+                    if (word.length() >= 3 && !isVowel(word.toLowerCase().charAt(2))) {
                         consonantCluster = word.substring(0, 3);
                         word = word.substring(3);
                     } else {
@@ -38,20 +32,14 @@ class PigLatinTranslator {
                         word = word.substring(2);
                     }
                     pigLatin = word + consonantCluster + "ay";
-                } else if (word.toLowerCase().charAt(0) == 'q' && word.toLowerCase().charAt(1) == 'u') {
-                    String consonantCluster = word.substring(0, 2);
-                    word = word.substring(2);
-                    pigLatin = word + consonantCluster + "ay";
-                } else if (word.toLowerCase().charAt(1) == 'q' && word.toLowerCase().charAt(2) == 'u') {
-                    String consonantCluster = word.substring(0, 3);
-                    word = word.substring(3);
-                    pigLatin = word + consonantCluster + "ay";
-                } else if (yIndex > 0 && vowel.indexOf(word.toLowerCase().charAt(yIndex - 1)) == -1) {
+                } else if (word.startsWith("qu")) {
+                    pigLatin = word.substring(2) + word.substring(0,2) + "ay";
+                } else if (word.matches("[a-z]qu[a-z]*")) {
+                    pigLatin = word.substring(3) + word.substring(0,3) + "ay";
+                } else if (yIndex > 0 && !isVowel(word.charAt(yIndex - 1))) {
                     pigLatin = word.substring(yIndex) + word.substring(0, yIndex) + "ay";
                 } else {
-                    String consonantCluster = word.substring(0, 1);
-                    word = word.substring(1);
-                    pigLatin = word + consonantCluster + "ay";
+                    pigLatin = word.substring(1) + word.charAt(0) + "ay";
                 }
             }
             result.append(pigLatin).append(" ");
@@ -59,4 +47,20 @@ class PigLatinTranslator {
 
         return result.toString().trim();
     }
+
+    private boolean hasTwoLetterConsonantCluster(String word) {
+        boolean hasConsonantCluster = false;
+        for (String cluster : TWO_LETTER_CLUSTERS) {
+            if (word.length() >= 2 && word.substring(0, 2).equals(cluster)) {
+                hasConsonantCluster = true;
+                break;
+            }
+        }
+        return hasConsonantCluster;
+    }
+
+    private boolean isVowel(char c) {
+        return VOWELS.toLowerCase().indexOf(c) != -1;
+    }
+
 }
