@@ -67,4 +67,5 @@ Some of these exercises from the Easy level are downright trivial, so perfect fo
 | [Linked List](https://exercism.org/tracks/java/exercises/linked-list) | [/java/linked-list](https://github.com/dambolewski/Exercism/tree/main/java/linked-list) |
 | [Isogram](https://exercism.org/tracks/java/exercises/isogram) | [/java/isogram](https://github.com/dambolewski/Exercism/tree/main/java/isogram) |
 | [Pig Latin](https://exercism.org/tracks/java/exercises/pig-latin) | [/java/pig-latin](https://github.com/dambolewski/Exercism/tree/main/java/pig-latin) |
+| [Anagram](https://exercism.org/tracks/java/exercises/anagram) | [/java/anagram](https://github.com/dambolewski/Exercism/tree/main/java/anagram) |
 | [Diamond](https://exercism.org/tracks/java/exercises/diamond) | [/java/diamond](https://github.com/dambolewski/Exercism/tree/main/java/diamond) |
