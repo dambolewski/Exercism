@@ -70,3 +70,4 @@ Some of these exercises from the Easy level are downright trivial, so perfect fo
 | [Anagram](https://exercism.org/tracks/java/exercises/anagram) | [/java/anagram](https://github.com/dambolewski/Exercism/tree/main/java/anagram) |
 | [Diamond](https://exercism.org/tracks/java/exercises/diamond) | [/java/diamond](https://github.com/dambolewski/Exercism/tree/main/java/diamond) |
 | [Proverb](https://exercism.org/tracks/java/exercises/proverb) | [/java/proverb](https://github.com/dambolewski/Exercism/tree/main/java/proverb) |
+| [Twelve Days](https://exercism.org/tracks/java/exercises/twelve-days) | [/java/twelve-days](https://github.com/dambolewski/Exercism/tree/main/java/twelve-days) |
