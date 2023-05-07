@@ -72,3 +72,4 @@ Some of these exercises from the Easy level are downright trivial, so perfect fo
 | [Proverb](https://exercism.org/tracks/java/exercises/proverb) | [/java/proverb](https://github.com/dambolewski/Exercism/tree/main/java/proverb) |
 | [Twelve Days](https://exercism.org/tracks/java/exercises/twelve-days) | [/java/twelve-days](https://github.com/dambolewski/Exercism/tree/main/java/twelve-days) |
 | [Bob](https://exercism.org/tracks/java/exercises/bob) | [/java/bob](https://github.com/dambolewski/Exercism/tree/main/java/bob) |
+| [Beer Song](https://exercism.org/tracks/java/exercises/beer-song) | [/java/beer-song](https://github.com/dambolewski/Exercism/tree/main/java/beer-song) |
