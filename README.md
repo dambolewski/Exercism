@@ -71,4 +71,4 @@ Some of these exercises from the Easy level are downright trivial, so perfect fo
 | [Diamond](https://exercism.org/tracks/java/exercises/diamond) | [/java/diamond](https://github.com/dambolewski/Exercism/tree/main/java/diamond) |
 | [Proverb](https://exercism.org/tracks/java/exercises/proverb) | [/java/proverb](https://github.com/dambolewski/Exercism/tree/main/java/proverb) |
 | [Twelve Days](https://exercism.org/tracks/java/exercises/twelve-days) | [/java/twelve-days](https://github.com/dambolewski/Exercism/tree/main/java/twelve-days) |
-| [Bob](https://exercism.org/tracks/java/exercises/bob) | [/java/bob](https://github.com/dambolewski/Exercism/tree/main/java/bob) ]
+| [Bob](https://exercism.org/tracks/java/exercises/bob) | [/java/bob](https://github.com/dambolewski/Exercism/tree/main/java/bob) |
