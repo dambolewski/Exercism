@@ -74,4 +74,4 @@ Some of these exercises from the Easy level are downright trivial, so perfect fo
 | [Bob](https://exercism.org/tracks/java/exercises/bob) | [/java/bob](https://github.com/dambolewski/Exercism/tree/main/java/bob) |
 | [Beer Song](https://exercism.org/tracks/java/exercises/beer-song) | [/java/beer-song](https://github.com/dambolewski/Exercism/tree/main/java/beer-song) |
 | [Food Chain](https://exercism.org/tracks/java/exercises/food-chain) | [/java/food-chain](https://github.com/dambolewski/Exercism/tree/main/java/food-chain) |
-| [House|(https://exercism.org/tracks/java/exercises/house) | [/java/house](https://github.com/dambolewski/Exercism/tree/main/java/house) |
+| [House](https://exercism.org/tracks/java/exercises/house) | [/java/house](https://github.com/dambolewski/Exercism/tree/main/java/house) |
