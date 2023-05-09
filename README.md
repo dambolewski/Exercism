@@ -77,3 +77,4 @@ Some of these exercises from the Easy level are downright trivial, so perfect fo
 | [House](https://exercism.org/tracks/java/exercises/house) | [/java/house](https://github.com/dambolewski/Exercism/tree/main/java/house) |
 | [ISBN Verifier](https://exercism.org/tracks/java/exercises/isbn-verifier) | [/java/isbn-verifier](https://github.com/dambolewski/Exercism/tree/main/java/isbn-verifier) |
 | [Largest Series Product](https://exercism.org/tracks/java/exercises/largest-series-product) | [/java/largest-series-product](https://github.com/dambolewski/Exercism/tree/main/java/largest-series-product) |
+| [Luhn](https://exercism.org/tracks/java/exercises/luhn) | [/java/luhn](https://github.com/dambolewski/Exercism/tree/main/java/luhn) |
