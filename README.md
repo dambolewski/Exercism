@@ -75,3 +75,4 @@ Some of these exercises from the Easy level are downright trivial, so perfect fo
 | [Beer Song](https://exercism.org/tracks/java/exercises/beer-song) | [/java/beer-song](https://github.com/dambolewski/Exercism/tree/main/java/beer-song) |
 | [Food Chain](https://exercism.org/tracks/java/exercises/food-chain) | [/java/food-chain](https://github.com/dambolewski/Exercism/tree/main/java/food-chain) |
 | [House](https://exercism.org/tracks/java/exercises/house) | [/java/house](https://github.com/dambolewski/Exercism/tree/main/java/house) |
+| [ISBN Verifier](https://exercism.org/tracks/java/exercises/isbn-verifier) | [/java/isbn-verifier](https://github.com/dambolewski/Exercism/tree/main/java/isbn-verifier) |
