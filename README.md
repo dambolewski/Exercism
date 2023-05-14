@@ -79,3 +79,4 @@ Some of these exercises from the Easy level are downright trivial, so perfect fo
 | [Largest Series Product](https://exercism.org/tracks/java/exercises/largest-series-product) | [/java/largest-series-product](https://github.com/dambolewski/Exercism/tree/main/java/largest-series-product) |
 | [Luhn](https://exercism.org/tracks/java/exercises/luhn) | [/java/luhn](https://github.com/dambolewski/Exercism/tree/main/java/luhn) |
 | [Knapsack](https://exercism.org/tracks/java/exercises/knapsack) | [/java/knapsack](https://github.com/dambolewski/Exercism/tree/main/java/knapsack) |
+| [Nucleotide Count](https://exercism.org/tracks/java/exercises/nucleotide-count) | [/java/nucleotide-count](https://github.com/dambolewski/Exercism/tree/main/java/nucleotide-count) |
