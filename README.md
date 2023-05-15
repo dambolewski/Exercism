@@ -81,3 +81,4 @@ Some of these exercises from the Easy level are downright trivial, so perfect fo
 | [Knapsack](https://exercism.org/tracks/java/exercises/knapsack) | [/java/knapsack](https://github.com/dambolewski/Exercism/tree/main/java/knapsack) |
 | [Nucleotide Count](https://exercism.org/tracks/java/exercises/nucleotide-count) | [/java/nucleotide-count](https://github.com/dambolewski/Exercism/tree/main/java/nucleotide-count) |
 | [Phone Number](https://exercism.org/tracks/java/exercises/phone-number) | [/java/phone-number](https://github.com/dambolewski/Exercism/tree/main/java/phone-number) |
+| [Series](https://exercism.org/tracks/java/exercises/series) | [/java/series](https://github.com/dambolewski/Exercism/tree/main/java/series) |
