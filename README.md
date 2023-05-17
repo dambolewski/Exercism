@@ -83,3 +83,4 @@ Some of these exercises from the Easy level are downright trivial, so perfect fo
 | [Phone Number](https://exercism.org/tracks/java/exercises/phone-number) | [/java/phone-number](https://github.com/dambolewski/Exercism/tree/main/java/phone-number) |
 | [Series](https://exercism.org/tracks/java/exercises/series) | [/java/series](https://github.com/dambolewski/Exercism/tree/main/java/series) |
 | [Roman Numerals](https://exercism.org/tracks/java/exercises/roman-numerals) | [/java/roman-numerals](https://github.com/dambolewski/Exercism/tree/main/java/roman-numerals) |
+| [Allergies](https://exercism.org/tracks/java/exercises/allergies) | [/java/allergies](https://github.com/dambolewski/Exercism/tree/main/java/allergies) |
