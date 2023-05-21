@@ -86,5 +86,6 @@ Some of these exercises from the Easy level are downright trivial, so perfect fo
 | [Allergies](https://exercism.org/tracks/java/exercises/allergies) | [/java/allergies](https://github.com/dambolewski/Exercism/tree/main/java/allergies) |
 | [Meetup](https://exercism.org/tracks/java/exercises/meetup) | [/java/meetup](https://github.com/dambolewski/Exercism/tree/main/java/meetup) |
 | [Yacht](https://exercism.org/tracks/java/exercises/yacht) | [/java/yacht](https://github.com/dambolewski/Exercism/tree/master/java/yacht) |
+| [Bowling](https://exercism.org/tracks/java/exercises/bowling) | [/java/bowling](https://github.com/dambolewski/Exercism/tree/master/java/bowling) |
 
 
