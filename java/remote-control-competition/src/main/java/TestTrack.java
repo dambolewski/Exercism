@@ -6,6 +6,7 @@ import java.util.stream.Collectors;
 public class TestTrack {
 
 public static void race(RemoteControlCar car) {
+    if(car != null)
         car.drive();
     }
 

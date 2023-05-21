@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="RemoteControlCarTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-04-21T20:31:53" hostname="MacBook-Pro.local" time="0.022">
+<testsuite name="RemoteControlCarTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-05-17T18:47:24" hostname="MacBook-Pro.local" time="0.023">
   <properties/>
-  <testcase name="experimentalRccIsRemoteControlCar" classname="RemoteControlCarTest" time="0.018"/>
+  <testcase name="experimentalRccIsRemoteControlCar" classname="RemoteControlCarTest" time="0.019"/>
   <testcase name="ensureCarsAreComparable" classname="RemoteControlCarTest" time="0.001"/>
   <testcase name="productionCarTravels10UnitsPerDrive" classname="RemoteControlCarTest" time="0.001"/>
-  <testcase name="rankManyCars" classname="RemoteControlCarTest" time="0.002"/>
+  <testcase name="rankManyCars" classname="RemoteControlCarTest" time="0.001"/>
   <testcase name="race" classname="RemoteControlCarTest" time="0.0"/>
-  <testcase name="experimentalCarTravels20UnitsPerDrive" classname="RemoteControlCarTest" time="0.0"/>
+  <testcase name="experimentalCarTravels20UnitsPerDrive" classname="RemoteControlCarTest" time="0.001"/>
   <testcase name="productionRccIsRemoteControlCar" classname="RemoteControlCarTest" time="0.0"/>
   <testcase name="rankTwoCars" classname="RemoteControlCarTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
