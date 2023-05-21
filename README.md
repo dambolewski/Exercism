@@ -51,6 +51,7 @@ Some of these exercises from the Easy level are downright trivial, so perfect fo
 | [Pangram](https://exercism.org/tracks/java/exercises/pangram) | [/java/pangram](https://github.com/dambolewski/Exercism/tree/main/java/pangram) |
 | [Space Age](https://exercism.org/tracks/java/exercises/space-age) | [/java/space-age](https://github.com/dambolewski/Exercism/tree/main/java/space-age) |
 | [Perfect Numbers](https://exercism.org/tracks/java/exercises/perfect-numbers) | [/java/perfect-numbers](https://github.com/dambolewski/Exercism/tree/master/java/perfect-numbers) |
+| [Say](https://exercism.org/tracks/java/exercises/say) | [/java/say](https://github.com/dambolewski/Exercism/tree/master/java/say) |
 <br>
 
 ### Medium
