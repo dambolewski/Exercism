@@ -91,4 +91,6 @@ Some of these exercises from the Easy level are downright trivial, so perfect fo
 | [Yacht](https://exercism.org/tracks/java/exercises/yacht) | [/java/yacht](https://github.com/dambolewski/Exercism/tree/master/java/yacht) |
 | [Bowling](https://exercism.org/tracks/java/exercises/bowling) | [/java/bowling](https://github.com/dambolewski/Exercism/tree/master/java/bowling) |
 | [Minesweeper](https://exercism.org/tracks/java/exercises/minesweeper) | [/java/minesweeper](https://github.com/dambolewski/Exercism/tree/master/java/minesweeper) |
+| [Queen Attack](https://exercism.org/tracks/java/exercises/queen-attack) | [/java/queen-attack](https://github.com/dambolewski/Exercism/tree/master/java/queen-attack) |
+<br>
 
