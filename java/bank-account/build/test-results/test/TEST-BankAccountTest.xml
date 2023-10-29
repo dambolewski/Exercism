@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="BankAccountTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2023-04-17T17:47:07" hostname="MacBook-Pro.local" time="0.493">
+<testsuite name="BankAccountTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2023-10-29T15:03:19" hostname="MacBook-Pro.local" time="0.519">
   <properties/>
-  <testcase name="canDepositMoneySequentially" classname="BankAccountTest" time="0.018"/>
-  <testcase name="cannotGetBalanceOfClosedAccount" classname="BankAccountTest" time="0.002"/>
-  <testcase name="cannotDepositNegativeAmount" classname="BankAccountTest" time="0.0"/>
+  <testcase name="multipleDeposits" classname="BankAccountTest" time="0.018"/>
+  <testcase name="canHandleConcurrentTransactions" classname="BankAccountTest" time="0.497"/>
+  <testcase name="cannotCheckBalanceOfClosedAccount" classname="BankAccountTest" time="0.001"/>
+  <testcase name="cannotDepositNegativeAmount" classname="BankAccountTest" time="0.001"/>
+  <testcase name="cannotDepositIntoUnopenedAccount" classname="BankAccountTest" time="0.0"/>
+  <testcase name="withdrawTwice" classname="BankAccountTest" time="0.0"/>
+  <testcase name="reopenedAccountDoesNotRetainBalance" classname="BankAccountTest" time="0.0"/>
   <testcase name="cannotWithdrawNegativeAmount" classname="BankAccountTest" time="0.0"/>
-  <testcase name="cannotWithdrawMoreMoneyThanYouHave" classname="BankAccountTest" time="0.001"/>
-  <testcase name="canDepositMoney" classname="BankAccountTest" time="0.0"/>
-  <testcase name="bankAccountIsClosedBeforeItIsOpened" classname="BankAccountTest" time="0.0"/>
+  <testcase name="singleDeposit" classname="BankAccountTest" time="0.0"/>
+  <testcase name="cannotWithdrawMoreThanWasDeposited" classname="BankAccountTest" time="0.001"/>
+  <testcase name="cannotWithdrawFromClosedAccount" classname="BankAccountTest" time="0.0"/>
+  <testcase name="cannotCloseAnAccountThatWasNotOpened" classname="BankAccountTest" time="0.0"/>
   <testcase name="newlyOpenedAccountHasEmptyBalance" classname="BankAccountTest" time="0.0"/>
-  <testcase name="cannotWithdrawMoneyFromEmptyAccount" classname="BankAccountTest" time="0.0"/>
-  <testcase name="canAdjustBalanceConcurrently" classname="BankAccountTest" time="0.471"/>
-  <testcase name="cannotWithdrawMoneyFromClosedAccount" classname="BankAccountTest" time="0.001"/>
-  <testcase name="canWithdrawMoney" classname="BankAccountTest" time="0.0"/>
-  <testcase name="cannotDepositMoneyIntoClosedAccount" classname="BankAccountTest" time="0.0"/>
-  <testcase name="canWithdrawMoneySequentially" classname="BankAccountTest" time="0.0"/>
+  <testcase name="canDoMultipleOperationsSequentially" classname="BankAccountTest" time="0.0"/>
+  <testcase name="withdrawOnce" classname="BankAccountTest" time="0.0"/>
+  <testcase name="cannotOpenAnAlreadyOpenedAccount" classname="BankAccountTest" time="0.001"/>
+  <testcase name="cannotDepositIntoClosedAccount" classname="BankAccountTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -14,8 +14,11 @@ public class BankAccount {
             throw new BankAccountActionInvalidException("Account closed");
     }
 
-    public void open() {
-        isOpen = true;
+    public void open() throws BankAccountActionInvalidException {
+        if (isOpen)
+            throw new BankAccountActionInvalidException("Account already open");
+        else
+            isOpen = true;
     }
 
     public synchronized void deposit(int i) throws BankAccountActionInvalidException {
@@ -26,7 +29,9 @@ public class BankAccount {
     }
 
     public synchronized void withdraw(int i) throws BankAccountActionInvalidException {
-        if (balance == 0)
+        if (!isOpen)
+            throw new BankAccountActionInvalidException("Account closed");
+        else if (balance == 0)
             throw new BankAccountActionInvalidException("Cannot withdraw money from an empty account");
         else if (i > balance)
             throw new BankAccountActionInvalidException("Cannot withdraw more money than is currently in the account");
@@ -36,7 +41,13 @@ public class BankAccount {
             balance = getBalance() - i;
     }
 
-    public void close() {
-        isOpen = false;
+    public void close() throws BankAccountActionInvalidException {
+        if (!isOpen)
+            throw new BankAccountActionInvalidException("Account not open");
+        else {
+            isOpen = false;
+            balance = 0;
+        }
+
     }
 }
