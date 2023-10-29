@@ -1,9 +1,8 @@
 import org.junit.Ignore;
 import org.junit.Test;
 
+import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.AssertionsForClassTypes.assertThatExceptionOfType;
-import static org.junit.Assert.assertFalse;
-import static org.junit.Assert.assertTrue;
 
 
 public class QueenAttackCalculatorTest {
@@ -46,7 +45,7 @@ public class QueenAttackCalculatorTest {
         QueenAttackCalculator calculator
                 = new QueenAttackCalculator(new Queen(2, 4), new Queen(6, 6));
 
-        assertFalse(calculator.canQueensAttackOneAnother());
+        assertThat(calculator.canQueensAttackOneAnother()).isFalse();
     }
 
     @Test
@@ -54,7 +53,7 @@ public class QueenAttackCalculatorTest {
         QueenAttackCalculator calculator
                 = new QueenAttackCalculator(new Queen(2, 4), new Queen(2, 6));
 
-        assertTrue(calculator.canQueensAttackOneAnother());
+        assertThat(calculator.canQueensAttackOneAnother()).isTrue();
     }
 
     @Test
@@ -62,7 +61,7 @@ public class QueenAttackCalculatorTest {
         QueenAttackCalculator calculator
                 = new QueenAttackCalculator(new Queen(4, 5), new Queen(2, 5));
 
-        assertTrue(calculator.canQueensAttackOneAnother());
+        assertThat(calculator.canQueensAttackOneAnother()).isTrue();
     }
 
     @Test
@@ -70,7 +69,7 @@ public class QueenAttackCalculatorTest {
         QueenAttackCalculator calculator
                 = new QueenAttackCalculator(new Queen(2, 2), new Queen(0, 4));
 
-        assertTrue(calculator.canQueensAttackOneAnother());
+        assertThat(calculator.canQueensAttackOneAnother()).isTrue();
     }
 
     @Test
@@ -78,7 +77,7 @@ public class QueenAttackCalculatorTest {
         QueenAttackCalculator calculator
                 = new QueenAttackCalculator(new Queen(2, 2), new Queen(3, 1));
 
-        assertTrue(calculator.canQueensAttackOneAnother());
+        assertThat(calculator.canQueensAttackOneAnother()).isTrue();
     }
 
     @Test
@@ -86,7 +85,7 @@ public class QueenAttackCalculatorTest {
         QueenAttackCalculator calculator
                 = new QueenAttackCalculator(new Queen(2, 2), new Queen(1, 1));
 
-        assertTrue(calculator.canQueensAttackOneAnother());
+        assertThat(calculator.canQueensAttackOneAnother()).isTrue();
     }
 
     @Test
@@ -94,7 +93,7 @@ public class QueenAttackCalculatorTest {
         QueenAttackCalculator calculator
                 = new QueenAttackCalculator(new Queen(1, 7), new Queen(0, 6));
 
-        assertTrue(calculator.canQueensAttackOneAnother());
+        assertThat(calculator.canQueensAttackOneAnother()).isTrue();
     }
 
     @Test

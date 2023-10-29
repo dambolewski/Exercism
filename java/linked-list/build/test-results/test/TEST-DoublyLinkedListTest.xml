@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="DoublyLinkedListTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-04-21T15:29:09" hostname="MacBook-Pro.local" time="0.021">
+<testsuite name="DoublyLinkedListTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-10-29T16:38:26" hostname="MacBook-Pro.local" time="0.02">
   <properties/>
-  <testcase name="testExample" classname="DoublyLinkedListTest" time="0.019"/>
+  <testcase name="testExample" classname="DoublyLinkedListTest" time="0.018"/>
+  <testcase name="testPushPopShift" classname="DoublyLinkedListTest" time="0.001"/>
+  <testcase name="testUnshiftShiftPop" classname="DoublyLinkedListTest" time="0.0"/>
   <testcase name="testPushPop" classname="DoublyLinkedListTest" time="0.0"/>
-  <testcase name="testPushShift" classname="DoublyLinkedListTest" time="0.001"/>
+  <testcase name="testPushShift" classname="DoublyLinkedListTest" time="0.0"/>
+  <testcase name="testUnshiftOnceShiftTwice" classname="DoublyLinkedListTest" time="0.0"/>
   <testcase name="testUnshiftPop" classname="DoublyLinkedListTest" time="0.0"/>
   <testcase name="testUnshiftShift" classname="DoublyLinkedListTest" time="0.0"/>
+  <testcase name="testPushOncePopTwice" classname="DoublyLinkedListTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -15,6 +15,9 @@ class DoublyLinkedList<T> {
     }
 
     T pop() {
+        if (tail == null) {
+            return null; // Return null if the list is empty
+        }
         Element<T> element = tail;
         tail = tail.prev;
         if (tail != null) {
@@ -37,6 +40,9 @@ class DoublyLinkedList<T> {
     }
 
     T shift() {
+        if (head == null) {
+            return null;
+        }
         Element<T> element = head;
         head = head.next;
         if (head != null) {
